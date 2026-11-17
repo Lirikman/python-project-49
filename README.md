@@ -37,6 +37,7 @@ cd python-project-49
 
 [Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
 
-## Asciinema "brain-even"
+## Asciinema  
 
-https://asciinema.org/a/Q9wZ4rjaYzI4DfY6
+[brain-even](https://asciinema.org/a/Q9wZ4rjaYzI4DfY6) - игра на проверку чётности\нечётности числа
+[brain-calc](https://asciinema.org/a/7tZKYDCIne0Tw8Ew) - игра на математические вычисления (сумма, разность, произведение)
