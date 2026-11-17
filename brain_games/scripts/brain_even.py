@@ -4,7 +4,7 @@ import prompt
 
 
 def random_num():
-    return random.randint(1, 100)  # ruff: ignore[suspicious-non-cryptographic-random-usage]
+    return random.randrange(0, 200)  # ruff: ignore[suspicious-non-cryptographic-random-usage]
 
 
 def is_even(num: int):
@@ -24,7 +24,7 @@ def main():
                 print("Correct!")
                 continue
             else:
-                print("'yes' is wrong answer ;(. Correct answer was 'no'")
+                print(f"'{answer}' is wrong answer ;(. Correct answer was 'yes'.")
                 print(f"Lets's try again, {name}!")
                 return
         if not is_even(num):
@@ -32,10 +32,10 @@ def main():
                 print("Correct!")
                 continue
             else:
-                print("'no' is wrong answer ;(. Correct answer was 'yes'")
+                print(f"'{answer}' is wrong answer ;(. Correct answer was 'no'.")
                 print(f"Lets's try again, {name}!")
                 return
-    print(f"Congratulations, {name}")
+    print(f"Congratulations, {name}!")
 
 
 if __name__ == "__main__":
