@@ -41,4 +41,4 @@ cd python-project-49
 
 [brain-even](https://asciinema.org/a/Q9wZ4rjaYzI4DfY6) - игра на проверку чётности\нечётности числа
 
-[brain-calc](https://asciinema.org/a/7tZKYDCIne0Tw8Ew) - игра на математические вычисления (сумма, разность, произведение)
+[brain-calc](https://asciinema.org/a/vYHjZP0IrBaenLnU) - игра на математические вычисления (сумма, разность, произведение)
