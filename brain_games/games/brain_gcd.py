@@ -11,7 +11,7 @@ def generate_num_and_gcd():
     a, b = num1, num2
     while b != 0:
         a, b = b, a % b
-    return f"{num1}, {num2}", a
+    return f"{num1} {num2}", a
 
 
 def run_game():
