@@ -1,6 +1,7 @@
-import random
+# ruff: file-ignore[suspicious-non-cryptographic-random-usage]
 
 import operator
+import random
 
 import brain_games.engine as run
 
@@ -17,7 +18,6 @@ def generate_match_exp():
     exp = f"{num1} {oper} {num2}"
     result = operations[oper](num1, num2)
     return exp, result
-
 
 
 def run_game():

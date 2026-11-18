@@ -13,12 +13,12 @@ def get_answer(question):
     return answer
 
 
-def check_answer(user_ans, correct_ans, name):
-    if user_ans == str(correct_ans):
+def check_answer(ans, cor_ans, name):
+    if ans == str(cor_ans):
         print("Correct!")
         return True
     else:
-        print(f"'{user_ans}' is wrong answer ;(. Correct answer was '{correct_ans}'.")
+        print(f"'{ans}' is wrong answer ;(. Correct answer was '{cor_ans}'.")
         print(f"Let's try again, {name}!")
         return False
 
