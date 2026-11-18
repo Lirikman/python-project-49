@@ -1,3 +1,5 @@
+# ruff: file-ignore[suspicious-non-cryptographic-random-usage]
+
 import random
 
 import brain_games.engine as run
@@ -11,7 +13,7 @@ def is_even(num: int):
 
 
 def generate_rand_num():
-    num = random.randrange(0, 200)  # ruff: ignore[suspicious-non-cryptographic-random-usage]
+    num = random.randrange(0, 200)
     return num, is_even(num)
 
 

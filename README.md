@@ -42,3 +42,5 @@ cd python-project-49
 [brain-even](https://asciinema.org/a/Q9wZ4rjaYzI4DfY6) - игра на проверку чётности\нечётности числа
 
 [brain-calc](https://asciinema.org/a/vYHjZP0IrBaenLnU) - игра на математические вычисления (сумма, разность, произведение)
+
+[brain-gcd](https://asciinema.org/a/BVdwp3PCQOuZVf6b) - игра на поиск наибольшего общего делителя двух чисел
