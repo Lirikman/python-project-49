@@ -46,3 +46,5 @@ cd python-project-49
 [brain-gcd](https://asciinema.org/a/BVdwp3PCQOuZVf6b) - игра на поиск наибольшего общего делителя двух чисел
 
 [brain-progression](https://asciinema.org/a/nrQpVQxeGBwSLJAc) - игра на вычисление скрытого числа арифметической прогресии
+
+[brain-prime](https://asciinema.org/a/ZhBScHJ4rsEA2DkL) - игра на проверку простое ли число
