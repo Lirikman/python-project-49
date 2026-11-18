@@ -44,3 +44,5 @@ cd python-project-49
 [brain-calc](https://asciinema.org/a/vYHjZP0IrBaenLnU) - игра на математические вычисления (сумма, разность, произведение)
 
 [brain-gcd](https://asciinema.org/a/BVdwp3PCQOuZVf6b) - игра на поиск наибольшего общего делителя двух чисел
+
+[brain-progression](https://asciinema.org/a/nrQpVQxeGBwSLJAc) - игра на вычисление скрытого числа арифметической прогресии
